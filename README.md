@@ -3,7 +3,7 @@
 
 - I’m currently working on **Creative coding**
 
-- 🌱 I’m currently learning **ThreeJs, WebGL, Web3, and Solidity**
+- I’m currently learning **ThreeJs, WebGL, Web3, and Solidity**
 
 - I’m interested in **immersive/experiential web**
 
