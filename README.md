@@ -24,5 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankie-b&theme=dark" alt="frankie-b" /></p>
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=bukenya&theme=dark" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS&theme=dark" width="400" align="right"/>
 </a>
