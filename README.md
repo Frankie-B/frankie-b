@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankie-b&show_icons=true&locale=en&theme=dark" alt="frankie-b" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankie-b&theme=dark" alt="frankie-b" /></p>
+
+<div align=right>![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)</div>
