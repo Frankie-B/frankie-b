@@ -23,8 +23,8 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=frankie-b&show_icons=true&locale=en&theme=dark" alt="frankie-b" /></p>
 </div>
 
-<div display="flex">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=frankie-b&theme=dark" alt="frankie-b" /></p>
-  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=frankie-b&theme=dark" alt="frankie-b" /></p>
+
+<div allign="right">  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Z3roInd3x3d?theme=dark&font=Fira%20Code&ext=activity)
 </div>
