@@ -25,5 +25,5 @@
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
   
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=bukenya&theme=dark"  width="515" align="right"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Z3roInd3x3d&theme=dark"  width="515" align="right"/>
 </a>
