@@ -20,6 +20,7 @@ jobs:
           base: header
           plugin_introduction: yes
           plugin_calendar: yes
+          plugin_calendar_limit: 0
           plugin_wakatime: yes
           plugin_achievements: yes
           plugin_wakatime_token: cbd713b1-31d7-4d7d-8805-b185c5e4c834
