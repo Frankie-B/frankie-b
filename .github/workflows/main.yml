@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: https://github.com/Frankie-B/frankie-b
+          user: https://github.com/Frankie-B
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
