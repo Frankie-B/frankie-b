@@ -80,4 +80,5 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_token: cbd713b1-31d7-4d7d-8805-b185c5e4c834
           plugin_wakatime_user: binary_flatline
