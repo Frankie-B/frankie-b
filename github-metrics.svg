@@ -2714,7 +2714,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 253k out of 72.7m repositories</span>
+                                    <span class="gh">ranked 253k out of 75.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 149 stars</div>
                             </div>
@@ -2875,7 +2875,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2024, 16:05:34 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 17:05:12 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
